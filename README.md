@@ -17,3 +17,5 @@
 <p align="center">
     <img src="Git/view.gif" height="100%" width="100%">
 </p>
+
+<p align="center">✨Dvurechensky✨</p>
