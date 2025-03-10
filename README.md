@@ -1,8 +1,8 @@
 <p align="center">
     <p align="center">
-        <a href="https://sites.google.com/view/dvurechensky" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Dvurechensky-N-blue"></a>
-        <img src="https://img.shields.io/badge/Csharp-VS2022-blue?logo=csharp&logoColor=FFFF00">
-        <img src="https://img.shields.io/badge/Unity-2021.2.7f1-blue?logo=unity&logoColor=FFFF00">
+        <a href="https://sites.google.com/view/dvurechensky" target="_blank"><img alt="Static Badge" src="https://shields.dvurechensky.pro/badge/Dvurechensky-N-blue"></a>
+        <img src="https://shields.dvurechensky.pro/badge/Csharp-VS2022-blue?logo=csharp&logoColor=FFFF00">
+        <img src="https://shields.dvurechensky.pro/badge/Unity-2021.2.7f1-blue?logo=unity&logoColor=FFFF00">
     </p>
 </p>
 
