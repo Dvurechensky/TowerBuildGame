@@ -1,4 +1,12 @@
-﻿using UnityEditor;
+﻿/*
+ * Author: Nikolay Dvurechensky
+ * Site: https://www.dvurechensky.pro/
+ * Gmail: dvurechenskysoft@gmail.com
+ * Last Updated: 12 мая 2025 05:48:46
+ * Version: 1.0.4
+ */
+
+using UnityEditor;
 using UnityEngine;
 using System.Linq;
 using System.Reflection;

@@ -1,3 +1,11 @@
+п»ї/*
+ * Author: Nikolay Dvurechensky
+ * Site: https://www.dvurechensky.pro/
+ * Gmail: dvurechenskysoft@gmail.com
+ * Last Updated: 12 РјР°СЏ 2025 05:48:46
+ * Version: 1.0.4
+ */
+
 using UnityEngine;
 
 public class CameraShake : MonoBehaviour
@@ -16,7 +24,7 @@ public class CameraShake : MonoBehaviour
     {
         if(shakeDuration > 0)
         {
-            //Случайное значение внутри сферы с радиусом 1
+            //РЎР»СѓС‡Р°Р№РЅРѕРµ Р·РЅР°С‡РµРЅРёРµ РІРЅСѓС‚СЂРё СЃС„РµСЂС‹ СЃ СЂР°РґРёСѓСЃРѕРј 1
             camTransform.localPosition = originPosition + Random.insideUnitSphere * shakeAmount;
             shakeDuration -= Time.deltaTime * decreaseFactor;
         }
